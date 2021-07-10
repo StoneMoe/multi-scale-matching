@@ -1,0 +1,6 @@
+comtypes==1.1.10
+d3dshot==0.1.5
+numpy==1.21.0
+opencv-contrib-python==4.5.2.54
+opencv-python==4.5.2.54
+Pillow==7.1.2
